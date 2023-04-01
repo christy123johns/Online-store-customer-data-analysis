@@ -1,0 +1,21 @@
+UNIVARIATE ANALYSIS
+
+1. Maximum transactions took place in February, 2020.
+2. Maximum customers are 15 or 16 years old.
+3. Minimum customers are 21 or 22 years old.
+4. Minimum transactions took place in November, 2019.
+5. Maximum customers are married.
+6. Minimum customers are single.
+7. Maximum customers live in Illinois.
+8. Minimum customers live in Tennessee.
+9. Maximum customers are female.
+10. Minimum customers are male.
+11. Maximum customers belong to Basic segment.
+12. Maximum customers are employees.
+13. Minimum customers are unemployed.
+14. Maximum customers use PayPal for payment.
+15. Maximum customers are referred to buy from online store.
+16. Maximum amount spent is $2999
+17. Minimum amount spent is $2
+18. Maximum age is 78
+19. Minimum age is 15

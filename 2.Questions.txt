@@ -1,0 +1,18 @@
+BIVARIATE ANALYSIS
+
+1. Maximum married belong to basic segment.
+2. Minimum single belong to missing segment.
+3. Maximum male belong to basic segment.
+4. Minimum female belong to missing segment.
+5. Maximum customers who are referred belong to basic segment.
+6. Maximum married are employees.
+7. Minimum single are unemployed.
+8. Maximum females are employees.
+9. Minimum males are unemployed.
+10. Maximum customers who are referred are employees.
+11. Maximum married use PayPal for payment.
+12. Maximum female customers use PayPal for payment.
+13. Maximum customers who are referred use PayPal for payment.
+14. Customers who belong to Basic segment spend the maximum amount.
+15. Maximum amount is spend from Massachusetts state of US.
+16. Minimum amount is spend from Alabama state of US.
